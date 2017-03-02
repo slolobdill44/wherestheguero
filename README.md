@@ -1,3 +1,5 @@
-# Wheres The Guero?
+# ¿Where's the Guero?
 
-Where's the Guero is a simple JS/JQuery app that maps my Instagram photos.
+¿Where's the Guero? is a simple JS/jQuery app that maps my Instagram photos.
+
+[preview]: ./pics/previewscreen.png
